@@ -1,0 +1,5 @@
+# Standard .gitignore for Java projects
+build/
+out/
+target/
+.idea/
